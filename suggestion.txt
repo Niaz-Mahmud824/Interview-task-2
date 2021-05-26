@@ -1,0 +1,5 @@
+1st step: create a database the name of laravel-api
+2nd step: import the database that I given
+3rd step: run the project and login any user name (that given databaser) password(spinder) to postman and copy the token 
+4th step: if you check others api which hav in middleware then write the api link to post man and open headers file the create a key to the name (Authorization) and beside this key field you will paste your token
+5th step: and then check api if you check insert data then use form-data or check details of user or profile then use id 
